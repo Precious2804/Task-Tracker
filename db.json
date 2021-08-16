@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Play Video Games",
+      "day": "August 15, 2021",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Write More Codes",
+      "day": "August 25, 2021",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Learn a New Stack",
+      "day": "August 15, 2021",
+      "reminder": true
+    },
+    {
+      "text": "A New task is been added",
+      "day": "2021-08-15",
+      "reminder": false,
+      "id": "Rq9bn3C"
+    },
+    {
+      "text": "Download new Passenger's Album(Drunk and broken hearted)",
+      "day": "2021-08-16",
+      "reminder": true,
+      "id": "fngaCqM"
+    }
+  ]
+}
